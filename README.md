@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #### Copy Paste: 100%
 
 ### BOT WANGSAF SELF
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finox999&repo=self_bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finox999&repo=self_bot)](https://github.com/Finox999/self_bot)
 
 ### 🚀 WORKFLOW PLATFORMS
 <p align="center">
