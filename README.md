@@ -1,26 +1,28 @@
 ### Hi there 👋
 
- **Finox999/README.md** 
+<p align="center" **HI ALL 👋**>
+ 
 Here are some ideas to get you started:
-- 👤 My Name Fino Julyan Anggara
-- 🔭 I’m currently working on *SMP 33 Kota Bekasi*
-- 🌱 I’m 15 Years old
-- 👯 I’m looking to collaborate for Created some new repos
-- 💬 Want to ask me Please Go To [`Instagram`](Instagram.com/finoooooo_)
-- 📍 I live in Bekasi - West Java - Indonesia
 
-### LANGUAGES 
+- 👤 My Name Fino Julyan Anggara
+- 🔭 I’m study at **SMP 33 Kota Bekasi**
+- 🌱 I’m **15** Years old
+- 👯 I’m looking to collaborate for Created some new repos
+- 💬 Want to ask me Please Go To **[`Instagram`](Instagram.com/finoooooo_)**
+- 📍 I live in **Bekasi - West Java - Indonesia**
+
+### 📃 LANGUAGES 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### MY STATS 
+### 🔥 MY STATS 
 
  ![Finox999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finox999&show_icons=true&theme=radical)
 
-### MY SKILL 
+### 🖱️ MY SKILL 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finox999&layout=compact)
 #### Copy Paste: 100%
 
