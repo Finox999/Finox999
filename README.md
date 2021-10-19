@@ -26,6 +26,9 @@ Here are some ideas to get you started:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finox999&layout=compact)
 #### Copy Paste: 100%
 
+### BOT WANGSAF SELF
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finox999&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🚀 WORKFLOW PLATFORMS
 <p align="center">
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
