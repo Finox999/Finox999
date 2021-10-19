@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# MY STATS
+![Finox999 GitHub stats](https://github-readme-stats.vercel.app/api?username=Finox999&show_icons=true&theme=radical)
+ # MY SKILL
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finox999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   (SKIL ASLI COPAS 100%)
