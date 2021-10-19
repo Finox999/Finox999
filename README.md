@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 
 
 
+### MY STATS 
 
+ ![Finox999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finox999&show_icons=true&theme=radical)
+
+### MY SKILL 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finox999&layout=compact)
+#### Copy Paste: 100%
