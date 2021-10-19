@@ -2,15 +2,19 @@
 
  **Finox999/README.md** 
 Here are some ideas to get you started:
-
+- 👤 My Name Fino Julyan Anggara
 - 🔭 I’m currently working on *SMP 33 Kota Bekasi*
 - 🌱 I’m 15 Years old
 - 👯 I’m looking to collaborate for Created some new repos
 - 💬 Want to ask me Please Go To [`Instagram`](Instagram.com/finoooooo_)
 - 📍 I live in Bekasi - West Java - Indonesia
 
-
-
+### LANGUAGES 
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ### MY STATS 
 
@@ -19,6 +23,19 @@ Here are some ideas to get you started:
 ### MY SKILL 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finox999&layout=compact)
 #### Copy Paste: 100%
+
+### 🚀 WORKFLOW PLATFORMS
+<p align="center">
+<a href="https://npmjs.com/" img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+### ⌛ PLATFORMS
+<p align="center">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+ 
 
 ### 📞 CONTACT WITH ME
 <p align="center">
