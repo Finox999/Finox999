@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  ![Finox999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finox999&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finox999&layout=compact)
-#### Copy Paste: 100%
+
 
 ### BOT WANGSAF SELF
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finox999&repo=self_bot)](https://github.com/Finox999/self_bot)
